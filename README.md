@@ -3,7 +3,7 @@
 <img src="images/coffee" min-width="300px" max-width="300px" width="300px" align="right" alt="Xícara de Café">
 
 <p align="left"> 
- Me chamo Quym Machado. Sou <strong>Full Stack Web Developer</strong> em formação pela <strong>Growdev</strong>.
+ Me chamo Quym Machado. Sou <strong>Full Stack Web Developer</strong> em formação pela <strong>Growdev</strong> e Bacharel em Administração de Empresas.
 </p>
 
 <p align="left">
