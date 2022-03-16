@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🛠 Ferramentas: <strong>VS Code, Photoshop, Git e GitHub.</strong>
+  🛠 Ferramentas: <strong>VS Code, Git e GitHub.</strong>
 </p>
 
 
