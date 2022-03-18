@@ -18,7 +18,7 @@
 <br>
 
 <p align="left">  
-  <a href="https://www.linkedin.com/in/quym-machado" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/QuymMachado" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
